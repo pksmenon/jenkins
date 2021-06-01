@@ -1,4 +1,3 @@
-spool script.log
-select *  from V$database;
+select name,status   from V$database;
 select sysdate from dual;
-spool off
+
