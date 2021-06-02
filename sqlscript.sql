@@ -1,3 +1,3 @@
-select name,open_mode,CURRENT_SCN   from V$database;
+select name from V$datafile;
 select sysdate from dual;
 
