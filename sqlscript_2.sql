@@ -1,2 +1,2 @@
-select username from dba_usersyi;
+select username from dba_usersi;
 select sysdate from dual;
