@@ -1,1 +1,1 @@
-select username,account_status from dba_users;
+select username from dba_users;
