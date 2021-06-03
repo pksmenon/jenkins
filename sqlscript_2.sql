@@ -1,1 +1,1 @@
-select usernamess from dba_users;
+select username from dba_users;
